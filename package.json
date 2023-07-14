@@ -39,5 +39,12 @@
     "@nomicfoundation/hardhat-toolbox": "^2.0.1",
     "@openzeppelin/contracts": "^4.8.2",
     "hardhat": "^2.12.7"
-  }
+  },
+  "description": "## Technology Stack & Tools",
+  "main": "hardhat.config.js",
+  "directories": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
 }
